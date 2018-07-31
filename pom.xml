@@ -10,6 +10,7 @@
     <modules>
         <module>merchant</module>
         <module>admin</module>
+        <module>customer</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>
